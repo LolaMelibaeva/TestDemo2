@@ -5,6 +5,7 @@ public class Homework2 {
 		
 		System.out.println("This is my 1st line demo");
 		System.out.println("test");
+		System.out.println("test2");
 	}
 
 }
